@@ -1,4 +1,4 @@
-# erikroche.com
+# erikroche.com (Deprecated)
 
 This project is a website called erikroche.com. It includes HTML, JavaScript, and Bash code to create a simple website with a WebSocket server.
 
